@@ -1,0 +1,25 @@
+{
+  "name": "memdisplay",
+  "version": "0.1.0",
+  "description": "Nodejs console ui for displaying realtime memory usage stats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaaromy/memdisplay.git"
+  },
+  "author": "Jaaromy Zierse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaaromy/memdisplay/issues"
+  },
+  "homepage": "https://github.com/Jaaromy/memdisplay#readme",
+  "dependencies": {
+    "cli-color": "1.2.0",
+    "clui": "0.3.6",
+    "jsonfile": "4.0.0",
+    "memwatch-next": "0.3.0"
+  }
+}
