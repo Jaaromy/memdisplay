@@ -19,7 +19,8 @@
   "dependencies": {
     "cli-color": "1.2.0",
     "clui": "0.3.6",
-    "jsonfile": "4.0.0",
+    "keypress": "0.2.1",
+    "lowdb": "1.0.0",
     "memwatch-next": "0.3.0"
   }
 }
